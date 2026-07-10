@@ -5,7 +5,7 @@
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-Project--Specific-lightgrey)](#-license)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE)
 
 <em>"A project developed by the BitBrief team, as a token of appreciation and gratitude to a teacher who had a significant impact on our educational journey — believing that the best way to express thanks is through work that serves an educational institution and strengthens its digital presence."</em>
 
@@ -27,7 +27,7 @@ This project was developed by **BitBrief** as a token of appreciation for a teac
 
 - [Project Goals](#-project-goals)
 - [Tech Stack](#️-tech-stack)
-- [Installation](#-Installation)
+- [Installation](#-installation)
 - [Running the Project](#️-running-the-project)
 - [Building for Production](#️-building-for-production)
 - [Common Issues](#️-common-issues)
@@ -140,7 +140,7 @@ Contributions that help improve and develop the project are welcome, provided th
 
 ## 📄 License
 
-This project is dedicated to supporting the digital presence of Al-Amal Center and is subject to the project's specific license terms.
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
